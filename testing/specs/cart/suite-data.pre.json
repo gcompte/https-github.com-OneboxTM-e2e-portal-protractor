@@ -1,0 +1,19 @@
+{
+    "firstEventInfo" : {
+        "eventId" : 2701,
+        "sessionId" : "120524",
+        "graphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path",
+        "noGraphicZone" : "19175",
+        "eventTitle" : "PRT LONDRES",
+        "eventDate" : "Viernes, 5 de abril de 2024",
+        "finalPrice" : "63,00 €"
+    },
+    "secondEventInfo" : {
+        "eventId" : 2703,
+        "sessionId" : "120531",
+        "noGraphicZone" : "19189",
+        "eventTitle" : "PRT ROMA",
+        "eventDate" : "Sábado, 13 de abril de 2024",
+        "finalPrice" : "101,80 €"
+    }
+}

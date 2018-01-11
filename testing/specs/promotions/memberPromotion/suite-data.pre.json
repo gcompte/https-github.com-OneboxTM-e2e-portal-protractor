@@ -1,0 +1,28 @@
+{
+    "qa3898" : {
+        "sessionUrl" : "/malagacf30/es_ES/entradas/evento/3079/session/135956/select",
+        "sessionId" : 135956,
+        "firstGraphicNumberedZone" : "#\\35 0495790-3233-4AC1-9C5F-A3D24BD4B853",
+        "memberUser" : 123,
+        "memberPwd" : 123,
+        "memberData" :
+            { 
+                "user" : 124292,
+                "pwd" : 5346
+            },
+        "seatsToSelect" : 1,
+        "secondSeatsToSelect" : 2,
+        "finalPrice" : ["5,00 €", "19,00 €"],
+        "basePrice" : ["40,00 €"],
+        "breakdownPrice01" : [
+            "SL-1309 - Auto NPB 8€ o 16€" , "-32,00 €",
+            "desc socios 1718", "-4,00 €",
+            "Cargos de gestión", "1,00 €"
+        ],
+        "breakdownPrice02" : [
+            "SL-1309 - Auto NPB 8€ o 16€" , "-96,00 €",
+            "desc socios 1718", "-8,00 €",
+            "Cargos de gestión", "3,00 €"
+        ]
+    }
+}

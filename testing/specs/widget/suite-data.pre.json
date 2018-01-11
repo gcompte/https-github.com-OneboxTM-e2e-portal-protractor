@@ -1,0 +1,12 @@
+{
+  "qa1213" : {
+    "channelUrl" : "protractor_channel_mono",
+    "eventId" : 2856,
+    "sessionId" : 121420,
+    "graphicNumberedZone" : "#F477AB94-2C6A-C30E-804A-32043581B369",
+    "noGraphicNumberedZone" : 21580,
+    "secondNoGraphicNumberedZone" : 21583,
+    "seatsToSelect" : ["3", "1", "0"],
+    "channelLimitSeats" : 10
+  }
+}

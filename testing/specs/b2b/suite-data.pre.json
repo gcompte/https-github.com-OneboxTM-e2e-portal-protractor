@@ -1,0 +1,108 @@
+{
+    "qa2867" : {
+        "eventId" : 3144,
+        "sessionId" : 152892,
+        "firstNoGraphicZone" : 24689,
+        "secondNoGraphicZone" : 24691,
+        "seatsToSelect" : ["2", "1"],
+        "seatsSelected" : "3",
+        "totalPrice" : "98,47 €",
+        "totalFinalAmount" : 104.47
+    },
+    "qa3488" : {
+        "eventId" : 3144,
+        "firstSessionId" : 152892,
+        "secondSessionId" : 152890,
+        "firstNoGraphicZone" : 24689,
+        "secondNoGraphicZone" : 24691,
+        "thirdNoGraphicZone" : 24690,
+        "seatsToSelect" : ["2", "1", "2"],
+        "seatsSelected" : ["3", "2"],
+        "totalPrice" : ["98,47 €", "62,42 €"],
+        "bookingNotes" : "Nota para la reserva"
+    },
+    "qa3486" : {
+        "bookings" : [
+            [
+                "1562ZDR83RYB",
+                "PRT Evento Agencias",
+                "1 Entrada",
+                "27/6/17",
+                "qa.automation.ob@gmail.com",
+                "Nota para la reserva",
+                "Total: 21,20 €"
+            ],
+            [
+                "6489YXRMVM4Y",
+                "PRT Evento Agencias 2",
+                "5 Entradas",
+                "27/6/17",
+                "qa.automation.ob@gmail.com",
+                "",
+                "Total: 185,43 €"
+            ]
+        ],
+        "bookingsExtended" : [
+            [
+                "1562ZDR83RYB",
+                "27/6/17",
+                "Protractor Channel B2B",
+                "21,20 €",
+                "15:19",
+                "1/5/24",
+                "Envío a email",
+                "1",
+                "qa.automation.ob@gmail.com",
+                "Nota para la reserva"
+            ],
+            [
+                "6489YXRMVM4Y",
+                "27/6/17",
+                "Protractor Channel B2B",
+                "185,43 €",
+                "15:17",
+                "23/3/20",
+                "Envío a email",
+                "5",
+                "qa.automation.ob@gmail.com",
+                ""
+            ]
+        ],
+        "sessionsBooked" : [
+            {
+                "id" : 152723,
+                "title" : "PRT VARSOVIA",
+                "date" : "7 de junio de 2024",
+                "time" : "15:00",
+                "location" : "Auditorio Protractor, Madrid",
+                "count" : 1
+            },
+            {
+                "id" : 152894,
+                "title" : "PRT MARRAKECH",
+                "date" : "17 de enero de 2025",
+                "time" : "22:00",
+                "location" : "Auditorio Actividad Protractor, Barcelona",
+                "count" : 5
+            }
+        ],
+        "bookingActionButtons" : ["COMPRAR", "CANCELAR RESERVA", "EDITAR RESERVA", "IMPRIMIR ESTA PÁGINA"]
+    },
+    "qa3498" : {
+        "eventId" : 3144,
+        "firstSessionId" : 152892,
+        "secondSessionId" : 152890,
+        "firstNoGraphicZone" : 24689,
+        "secondNoGraphicZone" : 24691,
+        "thirdNoGraphicZone" : 24690,
+        "seatsToSelect" : ["2", "1"],
+        "seatsSelected" : ["3"],
+        "totalPrice" : ["98,47 €", "62,42 €"],
+        "bookingNotes" : "Nota para la reserva",
+        "ticketsToSell" : 1
+    },
+    "noDeleteBookings" : [
+        "1562ZDR83RYB",
+        "6489YXRMVM4Y"
+    ]
+}

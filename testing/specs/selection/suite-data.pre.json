@@ -1,0 +1,144 @@
+{
+    "qa256" : {
+        "url" : "/protractor_channel_mono/es_ES/entradas/evento/2705/session/120561/select",
+        "noGraphicZone" : 19217
+    },
+    "qa267" : {
+        "url" : "/protractor_channel_mono/es_ES/entradas/evento/2703/session/120530/select",
+        "sessionId" : "120530",
+        "graphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path",
+        "graphicNoNumberedZone" : "#\\31 5549",
+        "noNumberedZoneName" : "Platea",
+        "seatsToSelect" : 2,
+        "ticketsInfo" : ["2 Platea - No numerada"],
+        "finalPrice" : "19,60 €"
+    },
+    "qa271" : {
+        "firstSession" : {
+            "url" : "/protractor_channel_mono/es_ES/entradas/evento/2706/session/129726/select",
+            "pricesBoxInfo" : "Precio único: Zona base | 15,00 €"
+        },
+        "secondSession" : {
+            "url" : "/protractor_channel_mono/es_ES/entradas/evento/2706/session/129729/select",
+            "uniquePrice" : "10,00 €",
+            "pricesZones" : ["Platea | 10,00 €", "Platea Preferente | 10,00 €", "Platea Premium | 10,00 € ( ENTRADAS AGOTADAS )", "Palcos Laterales | 10,00 €", "Palcos Centrales | 10,00 €", "Anfiteatro | 10,00 €", "Anfiteatro VR | 10,00 €"]
+        },
+        "thirdSession" : {
+            "url" : "/protractor_channel_mono/es_ES/entradas/evento/2706/session/129728/select",
+            "minMaxPrice" : ["5,00 €", "20,00 €"],
+            "pricesZones" : ["Palcos Centrales | 22,00 € 20,00 € QA271 - Promoción Automática", "Platea Premium | 20,00 € 18,00 € QA271 - Promoción Automática", "Palcos Laterales | 18,00 € 16,00 € QA271 - Promoción Automática", "Platea Preferente | 15,00 € 13,00 € QA271 - Promoción Automática", "Platea | 10,00 € 8,00 € QA271 - Promoción Automática", "Anfiteatro | 8,00 € 6,00 € QA271 - Promoción Automática", "Anfiteatro VR | 7,00 € 5,00 € QA271 - Promoción Automática"]
+        },
+        "fourthSession" : {
+            "url" : "/protractor_channel_mono/es_ES/entradas/evento/2706/session/129731/select",
+            "pricesZones" : ["Palcos Centrales | 22,00 €", "Palcos Laterales | 18,00 €", "Platea Preferente | 15,00 €", "Platea | 10,00 €", "Anfiteatro | 8,00 €", "Anfiteatro VR | 7,00 €", "Platea Premium | 20,00 €"],
+            "unavailablePricesZones" : ["Platea Premium | 20,00 € ( ENTRADAS AGOTADAS )"],
+            "unavailableZone" : 22850
+        }
+    },
+    "qa272" : {
+        "url" : "/protractor_channel_mono/es_ES/entradas/evento/2701/session/155843/select",
+        "graphicAvailableZones" : [
+            {
+                "zoneSelector" : "#C800D1BB-FF2F-B321-190C-4F6C006F34F3",
+                "zoneId" : "C800D1BB-FF2F-B321-190C-4F6C006F34F3",
+                "opacity" : "opacity: 1;",
+                "minMaxPrice" : ["5,00 €", "15,00 €"],
+                "activePrices" : ["15,00 €", "5,00 €"],
+                "inactivePrices" : ["20,00 €", "10,00 €"]
+            },
+            {
+                "zoneSelector" : "#F2A4F449-7287-8AC2-0561-4F6BCF88BD89",
+                "zoneId" : "F2A4F449-7287-8AC2-0561-4F6BCF88BD89",
+                "opacity" : "opacity: 1;",
+                "minMaxPrice" : ["", "10,00 €"],
+                "activePrices" : ["10,00 €"],
+                "inactivePrices" : ["20,00 €", "15,00 €", "5,00 €"]
+            },
+            {
+                "zoneSelector" : "#CF8A44F3-5A65-1181-CC4C-4F6EBDDD7461",
+                "zoneId" : "CF8A44F3-5A65-1181-CC4C-4F6EBDDD7461",
+                "opacity" : "opacity: 1;",
+                "minMaxPrice" : ["10,00 €", "20,00 €"],
+                "activePrices" : ["20,00 €", "10,00 €"],
+                "inactivePrices" : ["15,00 €", "5,00 €"]
+            }
+        ],
+        "graphicUnavailableZones" : [
+            {
+                "zoneSelector" : "#B775F379-7A5B-1DF0-75B9-4F6ED81D09C2",
+                "zoneId" : "B775F379-7A5B-1DF0-75B9-4F6ED81D09C2",
+                "opacity" : "opacity: 0.3;"
+            }
+        ],
+        "minMaxPrice" : ["5,00 €", "20,00 €"],
+        "maxPriceFiltered" : ["5,00 €", "8,00 €"],
+        "minPriceFiltered" : ["17,00 €", "20,00 €"],
+        "pricesZones" : ["20,00 €", "15,00 €", "10,00 €", "5,00 €"],
+        "sliderPricesMove" : [-350, 350]
+    },
+    "qa273" : {
+        "url" : "/protractor_channel_multi/es_ES/entradas/evento/2705/session/130688/select",
+        "sessionId" : "130688",
+        "firstGraphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path",
+        "firstGraphicNoNumberedZone" : "#\\31 6598 > rect",
+        "secondGraphicNumberedZone" : "#AC285BEC-CC0C-6C01-F126-CD115C9C1151 > g:nth-child(1) > path",
+        "goodVisibility" : {
+            "basePrice" : "Entrada 10,00 € + Cargos 0,50 €",
+            "finalPrice" : "Precio final: 10,50 €"
+        },
+        "reducedVisibility" : {
+            "basePrice" : "Entrada 7,00 € + Cargos 0,50 €",
+            "finalPrice" : "Precio final: 7,50 €",
+            "visibility" : "Visibilidad reducida"
+        },
+        "zeroVisibility" : {
+            "basePrice" : "Entrada 10,00 € Cargos 0,50 €",
+            "finalPrice" : "Precio final: 10,50 €",
+            "visibility" : "Visibilidad nula",
+            "availability" : "entradas disponibles"
+        },
+        "ticketsVisibilityNull" : ["Visibilidad nula", "", ""],
+        "ticketsVisibilityReduced" : ["", "", "Visibilidad reducida"]
+    },
+    "qa274" : {
+        "url" : "/protractor_channel_multi/es_ES/entradas/evento/2705/session/130706/select",
+        "sessionId" : "130706",
+        "goodVisibilityZoneId" : "23055",
+        "reducedVisibilityZoneId" : "23061",
+        "zeroVisibilityZoneId" : "23058",
+        "reducedVisibilityText" : "Visibilidad reducida",
+        "zeroVisibilityText" : "Visibilidad nula",
+        "ticketsVisibilityNull" : ["", "", "Visibilidad nula"],
+        "ticketsVisibilityReduced" : ["", "Visibilidad reducida", ""]
+    },
+    "qa2997" : {
+        "eventUrlMono" : "/protractor_channel_mono/es_ES/entradas/evento/2701/session/120524/select",
+        "eventUrlMulti" : "/protractor_channel_multi/es_ES/entradas/evento/2701/session/120524/select",
+        "graphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path"
+    },
+    "qa2998" : {
+        "channelUrl" : "/protractor_channel_mono/es_ES/tickets",
+        "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2701",
+        "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2701/session/120524/select",
+        "sessionId" : "120524"
+    },
+    "qa2999" : {
+        "sessionUrl" : "/es_ES/entradas/evento/2705/session/120566/select",
+        "graphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path"
+    },
+    "qa3908" : {
+        "channelUrl" : "protractor_channel_multi",
+        "sessionUrl" : "/protractor_channel_multi/es_ES/entradas/evento/2703/session/180652/select",
+        "eventId" : 2703,
+        "sessionId" : 180652,
+        "pricesZonesName" : [
+            "Palcos Centrales |",
+            "Platea Premium |",
+            "Palcos Laterales |",
+            "Platea Preferente |",
+            "Anfiteatro VR |",
+            "Anfiteatro |",
+            "Platea |"
+        ]
+    }
+}

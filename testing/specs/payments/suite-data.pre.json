@@ -1,0 +1,16 @@
+{
+    "sessionUrl" : "/protractor_channel_payments/es_ES/entradas/evento/2853/session/121411/select",
+    "eventId" : 2853,
+    "sessionId" : 121411,
+    "secondSessionId" : 121409,
+    "noGraphicZone" : "21519",
+    "graphicZone" : "#CF8A44F3-5A65-1181-CC4C-4F6EBDDD7461 > g:nth-child(2) > path",
+    "priceWithCurrency" : "10,20 €",
+    "priceWithoutCurrency" : "10,20",
+    "paymentErrorUrl" : "/protractor_channel_payments/es_ES/buying-process/purchase-error/0",
+    "numberRetries" : 3,
+    "errorMessages" : {
+        "connexflowWrongPAN" : "PAN Incorrecto"
+    },
+    "ticketsInfo" : ["1 Platea - No numerada", "403"]
+}

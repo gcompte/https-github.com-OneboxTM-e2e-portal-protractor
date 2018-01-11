@@ -1,0 +1,198 @@
+{
+    "qa1501" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2922/session/129116/select",
+        "graphicNoNumberedZone" : "#\\31 6374 > g > g > g > path",
+        "graphicZoneCoordenates" : [220, 130],
+        "breakdownPriceAuto" : [
+            "Promoción Automática QA1501", "-5,00 €",
+            "Cargos de gestión", "11,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "16,00 €"
+        ],
+        "breakdownPriceAutoPromo" : [
+            "Promoción Automática QA1501", "-5,00 €",
+            "Promoción Promoción QA1501", "-2,00 €",
+            "Cargos de gestión", "11,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "14,00 €"
+        ],
+        "breakdownPriceAutoDesc" : [
+            "Promoción Automática QA1501", "-5,00 €",
+            "Promoción Descuento QA1501", "-0,50 €",
+            "Cargos de gestión", "11,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "15,50 €"
+        ],
+        "breakdownPriceAutoPromoDesc" : [
+            "Promoción Automática QA1501", "-5,00 €",
+            "Promoción Promoción QA1501", "-2,00 €",
+            "Promoción Descuento QA1501", "-0,50 €",
+            "Cargos de gestión", "11,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "13,50 €"
+        ],
+        "breakdownPriceAutoDescPromo" : [
+            "Promoción Automática QA1501", "-5,00 €",
+            "Promoción Promoción QA1501", "-2,00 €",
+            "Promoción Descuento QA1501", "-0,50 €",
+            "Cargos de gestión", "11,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "13,50 €"
+        ]
+    },
+    "qa1502" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2925/session/129142/select",
+        "noGraphicZone" : "22316",
+        "breakdownPriceAuto" : [
+            "Promoción Automática QA1502", "-5,00 €",
+            "Cargos de gestión", "4,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "9,00 €"
+        ],
+        "breakdownPriceAutoDesc" : [
+            "Promoción Automática QA1502", "-5,00 €",
+            "Promoción Descuento QA1502", "-0,50 €",
+            "Cargos de gestión", "4,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "8,50 €"
+        ]
+    },
+    "qa1503" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2927/session/129144/select",
+        "graphicNumberedZone" : "#D4765DB8-D9D7-4314-8C70-320384CAB47D > g:nth-child(1) > rect",
+        "noGraphicNumberedZone" : 22350,
+        "breakdownPriceDesc" : [
+            "Promoción Descuento QA1503", "-1,00 €",
+            "Cargos de gestión", "12,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "21,00 €"
+        ],
+        "breakdownPricePromo" : [
+            "Promoción Promoción QA1503", "-2,00 €",
+            "Cargos de gestión", "14,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "22,00 €"
+        ],
+        "breakdownPricePromoDesc" : [
+            "Promoción Promoción QA1503", "-2,00 €",
+            "Promoción Descuento QA1503", "-1,00 €",
+            "Cargos de gestión", "12,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "19,00 €"
+        ]
+    },
+    "qa1504" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2922/session/129117/select",
+        "noGraphicZone" : "22304",
+        "breakdownPriceAuto" : [
+            "Promoción Automática QA1504", "-5,00 €",
+            "Cargos de gestión", "15,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "20,00 €"
+        ],
+        "breakdownPriceAutoPromo" : [
+            "Promoción Automática QA1504", "-5,00 €",
+            "Promoción Promoción QA1504", "-2,00 €",
+            "Cargos de gestión", "15,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "18,00 €"
+        ]
+    },
+    "qa3369" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2922/session/131833/select",
+        "graphicNoNumberedZone" : "#\\31 6374 > g > g > g > path",
+        "graphicZoneCoordenates" : [220, 130],
+        "noGraphicNoNumberedZone" : 22301,
+        "breakdownPriceAuto" : [
+            "Promoción Automática QA3369", "-1,00 €",
+            "Cargos de gestión", "11,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "20,00 €"
+        ],
+        "breakdownPriceAutoPromo" : [
+            "Promoción Automática QA3369", "-1,00 €",
+            "Promoción Promoción QA3369", "-4,50 €",
+            "Cargos de gestión", "11,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "15,50 €"
+        ],
+        "breakdownPriceAutoDesc" : [
+            "Promoción Automática QA3369", "-1,00 €",
+            "Promoción Descuento QA3369", "-2,00 €",
+            "Cargos de gestión", "11,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "18,00 €"
+        ],
+        "breakdownPriceAutoPromoDesc" : [
+            "Promoción Automática QA3369", "-1,00 €",
+            "Promoción Promoción QA3369", "-3,50 €",
+            "Promoción Descuento QA3369", "-2,00 €",
+            "Cargos de gestión", "11,00 €",
+            "Precio base", "10,00 €",
+            "Precio final", "14,50 €"
+        ]
+    },
+    "qa3811" : {
+        "graphicNoNumberedZone" : "#\\31 7238 > g > g > g > path",
+        "noGraphicNoNumberedZone" : 1468,
+        "graphicZoneCoordenates" : [220, 130],
+        "sessionInfo" : [
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3174/session/153701/select",
+                "sessionId" : 153701,
+                "finalPrice" : ["100,00 €", "50,00 €", "48,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3174/session/153702/select",
+                "sessionId" : 153702,
+                "finalPrice" : ["60,00 €", "58,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3174/session/153703/select",
+                "sessionId" : 153703,
+                "finalPrice" : ["100,00 €", "98,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3174/session/153704/select",
+                "sessionId" : 153704,
+                "finalPrice" : ["100,00 €", "50,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3174/session/153705/select",
+                "sessionId" : 153705,
+                "finalPrice" : ["60,00 €", "30,00 €", "20,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3174/session/153706/select",
+                "sessionId" : 153706,
+                "finalPrice" : ["90,00 €", "50,00 €", "45,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3174/session/180613/select",
+                "sessionId" : 180613,
+                "finalPrice" : ["118,80 €", "78,80 €"],
+                "breakdownPrice" : [
+                    "07 - Promoción Automática", "-1,20 €",
+                    "07 - Promoción Descuento", "-40,00 €"
+                ]
+            }
+        ]
+    },
+    "qa3906" : {
+        "baseZoneId" : 26011,
+        "autoZoneId" : 26015,
+        "seatsToSelect" : 1,
+        "sessionInfo" : [
+            {
+                "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/3209/session/180640/select",
+                "sessionId" : 180640,
+                "finalPrice" : ["110,00 €", "150,00 €", "115,00 €", "155,00 €", "142,50 €", "135,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/3209/session/180638/select",
+                "sessionId" : 180638,
+                "finalPrice" : ["0,00 €", "40,00 €", "73,00 €"]
+            }
+        ]
+    }
+}

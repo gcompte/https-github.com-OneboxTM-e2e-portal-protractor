@@ -1,0 +1,297 @@
+{
+  "qa117" : {
+    "firstEventUrl" : "/protractor_channel_multi/es_ES/entradas/evento/2701",
+    "firstEventId" : 2701,
+    "firstEventTitle" : "PRT LONDRES",
+    "firstSessionId" : 120611,
+    "noGraphicZone" : 19168,
+    "firstSeatsToSelect" : 2,
+    "secondEventUrl" : "/protractor_channel_multi/es_ES/entradas/evento/2703",
+    "secondEventId" : 2703,
+    "secondEventTitle" : "PRT ROMA",
+    "secondSessionId" : 120530,
+    "graphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F",
+    "secondSeatsToSelect" : 1,
+    "breakdownPrice01" : [
+      "Cargos de gestión", "1,00 €",
+      "Precio final", "21,00 €"
+    ],
+    "breakdownPrice02" : [
+      "PRT Automática - Roma - 10%", "-1,50 €",
+      "Cargos de gestión", "0,70 €",
+      "Precio final", "14,20 €"
+    ],
+    "paymentMethodPosition" : 2
+  },
+  "qa1718" : {
+    "url" : "/protractor_channel_multi/es_ES/entradas/evento/2703/session/120530/select",
+    "sessionsSelected" : [
+      {
+        "eventId" : 2703,
+        "sessionId" : 120530,
+        "eventTitle" : "PRT ROMA",
+        "eventDate" : "12 de abril de 2024",
+        "graphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path",
+        "graphicNoNumberedZone" : "#\\31 5549",
+        "basePrice" : "10,00 €",
+        "charges" : "-1,00 €",
+        "promos" : "+0,70 €",
+        "totalPrice" : "9,70 €",
+        "sectorName" : "Palcos Laterales",
+        "totalPriceZones" : 7,
+        "automaticPromotion" : "PRT Automática - Roma - 10%"
+      },
+      {
+        "eventId" : 2701,
+        "sessionId" : 120611,
+        "eventTitle" : "PRT LONDRES",
+        "eventDate" : "6 de abril de 2024",
+        "noGraphicZone" : "19169",
+        "basePrice" : "15,00 €",
+        "charges" : "+0,50 €",
+        "totalPrice" : "15,50 €",
+        "sectorName" : "Platea Preferente"
+      }
+    ],
+    "ticketsInfo" : ["1 Platea Preferente - No numerada"],
+    "finalPrice" : "25,20 €"
+  },
+  "qa1719" : {
+    "url" : "/protractor_channel_multi/es_ES/entradas/evento/2703/session/120530/select",
+    "sessionId" : 120530,
+    "firstGraphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F > rect",
+    "secondGraphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path",
+    "graphicNoNumberedZone" : "#\\31 5549 > rect",
+    "thirdGraphicNumberedZone" : "#\\31 EE27F5B-4582-E3D4-D4A3-CD171FD96E55 > g:nth-child(1)",
+    "mapTransform" : "left",
+    "sessionSelected" :
+      {
+        "eventId" : 2703,
+        "sessionId" : 120530,
+        "eventTitle" : "PRT ROMA",
+        "eventDate" : "Viernes, 12 de abril de 2024"
+      },
+    "selectedSeats" : [
+      {
+        "sectorName" : "Platea Preferente",
+        "basePrice" : "15,00 €",
+        "pricePromoAuto" : "13,50 €",
+        "promos" : "-1,50 €",
+        "charges" : "0,70 €",
+        "finalPrice" : "14,20 €"
+      },
+      {
+        "sectorName" : "Platea Preferente",
+        "finalPrice" : "14,20 €"
+      },
+      {
+        "sectorName" : "Platea",
+        "basePrice" : "10,00 €",
+        "pricePromoAuto" : "9,00 €",
+        "charges" : "0,70 €",
+        "finalPrice" : "9,70 €"
+      },
+      {
+        "sectorName" : "Anfiteatro 2 F1-2",
+        "finalPrice" : "7,90 €"
+      }
+    ],
+    "finalPrice" : ["14,20 €", "46,00 €"]
+  },
+  "qa1720" : {
+    "url" : "/protractor_channel_multi/es_ES/entradas/evento/2703/session/120531/select",
+    "sessionsSelected" : [
+      {
+        "eventId" : 2703,
+        "sessionId" : 120531,
+        "eventTitle" : "PRT ROMA",
+        "eventDate" : "Sábado, 13 de abril de 2024",
+        "noGraphicZone" : "19192",
+        "basePrice" : "18,00 €",
+        "charges" : "+0,70 €",
+        "subtotal" : "16,90 €",
+        "sectorName" : "Palcos Laterales",
+        "ticketInfo" : ["1 Palcos Laterales - No numerada"],
+        "totalPriceZones" : 7,
+        "automaticPromotionName" : "PRT Automática - Roma - 10%",
+        "automaticPromotionAmount" : "-1,80 €"
+      },
+      {
+        "eventId" : 2701,
+        "sessionId" : 120611,
+        "eventTitle" : "PRT LONDRES",
+        "eventDate" : "Sábado, 6 de abril de 2024",
+        "noGraphicZone" : "19169",
+        "basePrice" : "15,00 €",
+        "charges" : "+0,50 €",
+        "subtotal" : "15,50 €",
+        "sectorName" : "Platea Preferente",
+        "ticketInfo" : ["1 Platea Preferente - No numerada"]
+      }
+    ],
+    "ticketsInfo" : ["1 Palcos Laterales - No numerada", "1 Platea Preferente - No numerada"],
+    "finalPrice" : ["16,90 €", "32,40 €"]
+  },
+  "qa1722" : {
+    "url" : "/protractor_channel_multi/es_ES/entradas/evento/2701/session/120531/select",
+    "maxSeatsChannel" : 10,
+    "sessionId" : 120531,
+    "sessionsSelected" : [
+      {
+        "eventId" : 2701,
+        "sessionId" : 120531,
+        "noGraphicZone" : 19192
+      },
+      {
+        "eventId" : 2703,
+        "sessionId" : 120530,
+        "firstGraphicNumberedZone" : "#E761A4DF-A4FB-3075-4F46-CD13C4835020",
+        "secondGraphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path",
+        "graphicNoNumberedZone" : "#\\31 5549 > rect"
+      }
+    ],
+    "ticketsInfo" : ["10 Palcos Laterales - No numerada"]
+  },
+  "qa1723" : {
+    "url" : "/protractor_channel_multi/es_ES/entradas/evento/2701/session/120524/select",
+    "maxSeatsChannel" : 10,
+    "sessionsSelected" : [
+      {
+        "sessionId" : 120524,
+        "graphicNumberedZone" : "#E761A4DF-A4FB-3075-4F46-CD13C4835020"
+      },
+      {
+        "sessionId" : 121286,
+        "graphicNumberedZone" : "#E761A4DF-A4FB-3075-4F46-CD13C4835020"
+      }
+    ]
+  },
+  "qa1724" : {
+    "url" : "/protractor_channel_multi/es_ES/entradas/evento/2701/session/120524/select",
+    "sessionId" : "120524",
+    "maxSeatsChannel" : 10,
+    "sessionsSelected" : [
+      {
+        "sessionId" : 120524,
+        "graphicNumberedZone" : "#E761A4DF-A4FB-3075-4F46-CD13C4835020"
+      },
+      {
+        "sessionId" : 121280,
+        "graphicNumberedZone" : "#E761A4DF-A4FB-3075-4F46-CD13C4835020"
+      }
+    ]
+  },
+  "qa2172" : {
+    "url" : "/portaventura_portal/es_ES/entradas/evento/3107/session/151418/select",
+    "sessionId" : 151418,
+    "noGraphicZone" : 24214,
+    "seatsToSelect" : 1,
+    "ticketsInfo" : ["1 Sénior (desde 60 años) - No numerada"],
+    "priceWithCurrency" : "94,00 €"
+  },
+  "qa3543" : {
+    "url" : "/portaventura_portal/es_ES/entradas/evento/2995/session/131156/select",
+    "sessionId" : 131156,
+    "noGraphicZone" : 23173,
+    "seatsToSelect" : 1,
+    "ticketsInfo" : ["1 Sénior (desde 60 años) - No numerada"],
+    "priceWithCurrency" : "40,00 €"
+  },
+  "qa1890" : {
+    "firstEventUrl" : "/protractor_channel_activity_multi/es_ES/entradas/evento/2703",
+    "firstEventId" : 2703,
+    "firstEventTitle" : "PRT ROMA",
+    "firstSessionId" : 120531,
+    "firstNoGraphicZone" : 19189,
+    "firstSeatsToSelect" : 1,
+    "secondEventUrl" : "/protractor_channel_activity_multi/es_ES/entradas/evento/3078",
+    "secondEventId" : 3078,
+    "secondEventTitle" : "PRT SIDNEY",
+    "secondSessionId" : 135957,
+    "secondNoGraphicZone" : 24093,
+    "secondSeatsToSelect" : 2,
+    "breakdownPrice01" : [
+      "PRT Automática - Roma - 10%", "-1,00 €",
+      "Cargos de gestión", "0,54 €",
+      "Precio final", "9,54 €"
+    ],
+    "breakdownPrice02" : [
+      "Cargos de gestión", "0,68 €",
+      "Precio final", "90,68 €"
+    ],
+    "paymentMethodPosition" : 0,
+    "finalPrice" : "100,22"
+  },
+  "qa3820" : {
+    "sessionUrl" : "/protractor_channel_uk_multi/en_US/entradas/evento/3232/session/180767/select",
+    "graphicNumberedZone" : "#\\37 2E4DFF0-F8AC-A799-93AD-1560E3DA030E",
+    "feesInfo" : {
+      "name" : "Transaction Fee",
+      "price" : "€1.15"
+    },
+    "priceWithoutTransactionFee" : "€51.00",
+    "priceWithTransactionFee" : ["€26.65", "€52.15"],
+    "transactionFeeInfo" : "Applies per transaction: Transaction Fee (€1.15)",
+    "paymentCash" : 100
+  },
+  "qa3863" : {
+    "previewSessionUrl" : "/protractor_channel_multi/es_ES/entradas/evento/2701/session/180653/select",
+    "previewToken" : "2KY5A3RB2KPJ4OLQ",
+    "previewTokenKO" : "2KY5A3RB2KPJ4OLA",
+    "previewGraphicNumberedZone" : "#F2A4F449-7287-8AC2-0561-4F6BCF88BD89 > g > path",
+    "preparedSessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2703/session/120530/select",
+    "preparedGraphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F > rect",
+    "seatsToSelect" : 1,
+    "priceWithoutCurrency" : "14,30",
+    "paymentMethodPosition" : 0
+  },
+  "qa3912" : {
+    "mainEvent" : {
+      "firstChildRestrictedSessionUrl" : "/protractor_channel_activity_multi/es_ES/entradas/evento/3078/session/135957/select",
+      "noGraphicZone" : 24092
+    },
+    "firstChildEvent" : {
+      "url" : "/protractor_channel_activity_multi/es_ES/entradas/evento/3218",
+      "restrictedSessionId" : 180656,
+      "noRestrictedSessionId" : 180671,
+      "noGraphicZone" : 26062,
+      "restrictionMessage" : "Para acceder a PRT San Petersburgo es necesaria adquirir una entrada de PRT Sidney por cada asistente. ¿Deseas agregar la entrada de PRT Sidney ahora?"
+    },
+    "amount" : 200
+  },
+  "qa3913" : {
+    "mainEvent" : {
+      "firstChildNoRestrictedSessionUrl" : "/protractor_channel_activity_multi/es_ES/entradas/evento/3078/session/180683/select",
+      "noGraphicZone" : 24092
+    },
+    "firstChildEvent" : {
+      "url" : "/protractor_channel_activity_multi/es_ES/entradas/evento/3218",
+      "restrictedSessionId" : 180656,
+      "noGraphicZone" : 26062,
+      "restrictionMessage" : "Para acceder a PRT San Petersburgo es necesaria adquirir una entrada de PRT Sidney por cada asistente. ¿Deseas agregar la entrada de PRT Sidney ahora?"
+    },
+    "noRestrictedEvent" : {
+      "url" : "/protractor_channel_activity_multi/es_ES/entradas/evento/2703",
+      "sessionId" : 120531,
+      "noGraphicZone" : 19195
+    },
+    "amount" : 200
+  },
+  "qa3920" : {
+    "mainEvent" : {
+      "noGraphicZone" : 24092
+    },
+    "firstChildEvent" : {
+      "url" : "/protractor_channel_activity_multi/es_ES/entradas/evento/3218",
+      "restrictedSessionId" : 180656,
+      "noGraphicZone" : 26062,
+      "restrictionMessage" : "Para acceder a PRT San Petersburgo es necesaria adquirir una entrada de PRT Sidney por cada asistente. ¿Deseas agregar la entrada de PRT Sidney ahora?"
+    },
+    "secondChildEvent" : {
+      "url" : "/protractor_channel_activity_multi/es_ES/entradas/evento/3224",
+      "noGraphicZone" : 26081,
+      "restrictionMessage" : "Para acceder a PRT Minsk es necesaria adquirir una entrada de PRT Sidney por cada asistente. ¿Deseas agregar la entrada de PRT Sidney ahora?"
+    },
+    "amount" : 200
+  }
+}

@@ -1,0 +1,103 @@
+{
+    "qa284" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2942/session/129619/select",
+        "sessionId" : 129619,
+        "firstGraphicNumberedZone" : "#CF8A44F3-5A65-1181-CC4C-4F6EBDDD7461",
+        "secondGraphicNumberedZone" : "#A9DC9B2F-183E-0569-F10C-4F75B7DAC7E3",
+        "promotionalCodeTxt" : "123",
+        "seatsToSelect" : 1,
+        "totalPrice" : "36,20",
+        "breakdownPrice" : [
+            "QA284 - Promoción Bloqueante Promoción", "-1,80 €",
+            "Cargos de gestión", "2,00 €",
+            "Precio final", "36,20 €"
+        ],
+        "basePrice" : ["18,00 €", "18,00 €"],
+        "ticketFinalPrice" : ["19,00 €", "17,20 €"]
+    },
+    "qa467" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2942/session/129619/select",
+        "sessionId" : 129619,
+        "firstGraphicNumberedZone" : "#CF8A44F3-5A65-1181-CC4C-4F6EBDDD7461",
+        "secondGraphicNumberedZone" : "#A9DC9B2F-183E-0569-F10C-4F75B7DAC7E3",
+        "promotionalCodeTxt" : "123",
+        "seatsToSelect" : 1,
+        "totalPrice" : "35,20",
+        "breakdownPrice" : [
+            "QA284 - Promoción Bloqueante Promoción", "-1,80 €",
+            "Cargos de gestión", "1,00 €",
+            "Precio final", "35,20 €"
+        ],
+        "basePrice" : ["18,00 €", "18,00 €"],
+        "ticketFinalPrice" : ["18,50 €", "16,70 €"]
+    },
+    "qa623" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2942/session/129538/select",
+        "sessionId" : 129538,
+        "graphicNumberedZone" : "#B3BDD98F-2190-3758-898D-4F75CD1AB988"
+    },
+    "qa624" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2942/session/129538/select",
+        "sessionId" : 129538,
+        "graphicNumberedZone" : "#B3BDD98F-2190-3758-898D-4F75CD1AB988"
+    },
+    "qa627" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2942/session/129525/select",
+        "graphicNumberedZone" : "#B3BDD98F-2190-3758-898D-4F75CD1AB988",
+        "promotionalCodeTxt" : "123"
+    },
+    "qa628" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2942/session/129528/select",
+        "sessionId" : 129528,
+        "graphicNumberedZone" : "#B3BDD98F-2190-3758-898D-4F75CD1AB988",
+        "graphicNumberedZone2" : "#B775F379-7A5B-1DF0-75B9-4F6ED81D09C2",
+        "promotionalCodeTxt" : "123"
+    },
+    "qa631" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2942/session/129538/select",
+        "sessionId" : 129538,
+        "graphicNumberedZone" : "#B3BDD98F-2190-3758-898D-4F75CD1AB988",
+        "promotionalCodeTxt" : "123",
+        "promotionalCodeErrorTxt" : "abc"
+    },
+    "qa632" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2942/session/129538/select",
+        "sessionId" : 129538,
+        "graphicNumberedZone" : "#B3BDD98F-2190-3758-898D-4F75CD1AB988",
+        "promotionalCodeTxt" : "123",
+        "promotionalCodeErrorTxt" : "abc"
+    },
+    "qa633" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2942/session/129538/select",
+        "sessionId" : 129538,
+        "graphicNumberedZone" : "#B3BDD98F-2190-3758-898D-4F75CD1AB988",
+        "promotionalCodeTxt" : "123",
+        "promotionalCodeErrorTxt" : "abc"
+    },
+    "qa635" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2942/session/129538/select",
+        "sessionId" : 129538,
+        "graphicNumberedZone" : "#B3BDD98F-2190-3758-898D-4F75CD1AB988",
+        "promotionalCodeTxt" : "123",
+        "promotionalCodeErrorTxt" : "abc"
+    },
+    "qa1677" : {
+        "firstEvent" : {
+            "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3056/session/135157/select",
+            "graphicNumberedZone" : "#DA226688-07DF-417E-A84F-4F758B6209ED > g:nth-child(3) > path"
+        },
+        "secondEvent" : {
+            "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3033/session/132155/select",
+            "noGraphicZone" : "23534"
+        },
+        "totalPrice" : "15,50",
+        "finalAmount" : "26,00"
+    },
+    "qa3953" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2942/session/180831/select",
+        "sessionId" : 180831,
+        "graphicNumberedZone" : "#\\35 301C864-FE01-15E0-AA11-4F6BE907F07B > g > path",
+        "promotionalCodeTxt" : "TEST",
+        "promotionalCodeId" : 956
+    }
+}

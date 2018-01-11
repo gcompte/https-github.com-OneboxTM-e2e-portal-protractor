@@ -1,0 +1,93 @@
+{
+  "userData"  : {
+    "name"  : "Protractor Name",
+    "surname" : "Protractor Surname",
+    "email" : "qa.automation.ob@gmail.com",
+    "blacklistEmail" : "qa-auto@oneboxtm.com",
+    "phone" : "123456789"
+  },
+  "paymentData" : {
+    "card" : "4548812049400004",
+    "wrongCard" : "4548812049400003",
+    "santanderCard" : "4263971921001307",
+    "month" : "12",
+    "year" : "50",
+    "securityCode" : "123",
+    "cipCode" : "123456",
+    "paypalUser" : "avilalta-buyer@oneboxtm.com",
+    "paypalPwd" : "Buy3r=n3b0x"
+  },
+  "taquillaWebUsersData" : {
+    "users" : [
+      {
+        "name" : "QA Auto Usuario 1",
+        "email" : "qa-auto+1@oneboxtm.com"
+      },
+      {
+        "name" : "QA Auto Usuario 2",
+        "email" : "qa-auto+2@oneboxtm.com"
+      },
+      {
+        "name" : "QA Auto Usuario 3",
+        "email" : "qa-auto+3@oneboxtm.com"
+      }
+    ],
+    "password" : 123
+  },
+  "b2bUsersData" : [
+    {
+      "user" : "qa.automation.ob@gmail.com",
+      "password" : "92d11e911d"
+    },
+    {
+      "user" : "qa.automation.ob+b@gmail.com",
+      "password" : "679721ff5e"
+    }
+  ],
+  "channels" : {
+    "genericMono" : "/protractor_channel_mono",
+    "genericMulti" : "/protractor_channel_multi",
+    "genericActivityMono" : "/protractor_channel_activity_mono",
+    "promotionsMono" : "/protractor_channel_promos_mono",
+    "promotionsMulti" : "/protractor_channel_promos_multi",
+    "taquillaWebMono" : "/protractor_channel_taquilla_web_mono/login",
+    "taquillaWebMulti" : "/protractor_channel_taquilla_web_multi/login",
+    "paymentsMono" : "/protractor_channel_payments",
+    "paymentsTaquillaWebMono" : "/protractor_channel_taquilla_web_payments/login",
+    "b2b" : "/protractor_channel_b2b",
+    "states" : {
+      "login" : "/es_ES/login",
+      "billboard" : "/es_ES/tickets",
+      "operationsList" : "/es_ES/operations-list",
+      "purchaseConfirm" : "/es_ES/buying-process/purchase-confirm/",
+      "bookingConfirm" : "/es_ES/buying-process/booking-confirm/",
+      "bookingDetail" : "/es_ES/bookings-detail/",
+      "userData" : "/es_ES/buying-process/user-data"
+    }
+  },
+  "promotions" : {
+    "promotionalCodeOK" : "123",
+    "promotionalCodeKO" : "321",
+    "promotionalCodeFutureDate" : "ABC",
+    "promotionalCodeLastDate" : "XYZ"
+  },
+  "offCanvasOptions" : ["¿NECESITAS AYUDA?", "REENVIAR ENTRADA", "IDIOMA", "", "AVISO LEGAL"],
+  "htmlWidgetTest" : "http://pruebas.proticketing.com.s3.amazonaws.com/widget_test_v2/test_widget_v2.html",
+  "attendants" : [
+    {
+      "name" : "María",
+      "surname" : "Pérez López",
+      "id" : "12345678Q"
+    },
+    {
+      "name" : "Adrián",
+      "surname" : "Martínez Sánchez",
+      "id" : "23456789R"
+    },
+    {
+      "name" : "Roberto",
+      "surname" : "Jiménez Rodríguez",
+      "id" : "34567890G"
+    }
+  ]
+}

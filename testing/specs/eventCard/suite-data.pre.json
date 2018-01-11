@@ -1,0 +1,239 @@
+{
+  "qa854" : {
+    "channelUrl" : "/protractor_channel_unique_event/es_ES/tickets",
+    "supraeventUrl" : "/protractor_channel_unique_event/es_ES/entradas/evento/2700"
+  },
+  "qa855" : {
+    "channelUrl" : "/protractor_channel_mono/es_ES/tickets"
+  },
+  "qa858" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2703",
+    "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2703/session/120530/select",
+    "sessionId" : "120530",
+    "graphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F > rect"
+  },
+  "qa859" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2704",
+    "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2704/session/120539/select",
+    "sessionId" : "120539",
+    "multisessionsTotal" : 2,
+    "multisessions" : [
+      {
+        "month" : "MAYO",
+        "day" : "03",
+        "weekDay" : "VIERNES",
+        "timeSessions" : ["22:00", "22:30", "EN BREVE"]
+      },
+      {
+        "month" : "MAYO",
+        "day" : "10",
+        "weekDay" : "VIERNES",
+        "timeSessions" : ["22:00", "22:30", "EN BREVE"]
+      }
+    ]
+  },
+  "qa860" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2705",
+    "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2705/session/120561/select",
+    "sessionId" : "120561",
+    "multisessionsTotal" : 5,
+    "dateSelectedText" : "VIERNES, 7 DE JUNIO DE 2024",
+    "dateSelectedCalendar" : "7 JUNIO 2024",
+    "multisessions" : [
+      {
+        "month" : "JUNIO",
+        "day" : "07",
+        "weekDay" : "VIERNES",
+        "timeSessions" : ["21:00", "22:00", "EN BREVE", "22:30", "23:30"],
+        "dateText" : "Viernes, 7 De Junio De 2024"
+      },
+      {
+        "month" : "JUNIO",
+        "day" : "26",
+        "weekDay" : "MIÉRCOLES",
+        "timeSessions" : ["21:00", "22:00", "EN BREVE", "22:30", "23:30"],
+        "dateText" : "Miércoles, 26 De Junio De 2024"
+      },
+      {
+        "month" : "JUNIO",
+        "day" : "27",
+        "weekDay" : "JUEVES",
+        "timeSessions" : ["22:30"],
+        "dateText" : "Jueves, 27 De Junio De 2024"
+      },
+      {
+        "month" : "JUNIO",
+        "day" : "28",
+        "weekDay" : "VIERNES",
+        "timeSessions" : ["22:30"],
+        "dateText" : "Viernes, 28 De Junio De 2024"
+      },
+      {
+        "month" : "JUNIO",
+        "day" : "29",
+        "weekDay" : "SÁBADO",
+        "timeSessions" : ["22:30"],
+        "dateText" : "Sábado, 29 De Junio De 2024"
+      }
+    ]
+  },
+  "qa861" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2706",
+    "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2706/session/120584/select",
+    "sessionId" : "120584",
+    "dateSelectedText" : "SÁBADO, 25 DE MAYO DE 2024",
+    "dateSelectedCalendar" : "25 MAYO 2024",
+    "multisessions" : [
+      {
+        "timeSessions" : ["20:00", "20:15", "20:30", "EN BREVE", "21:00", "21:15", "21:30", "21:45", "22:00", "22:15", "22:30", "22:45", "23:00", "23:15", "23:30", "23:45"],
+        "dateText" : "Sábado, 25 De Mayo De 2024"
+      }
+    ]
+  },
+  "qa862" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2707",
+    "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2707/session/121347/select",
+    "sessionId" : "121347",
+    "sessionsTotal" : 2,
+    "graphicNumberedZone" : "#\\35 59DAF79-B068-5EC5-7806-320239DA6CBB"
+  },
+  "qa863" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2848"
+  },
+  "qa864" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2853",
+    "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2853/session/121409/select",
+    "sessionId" : "121409",
+    "dateSelectedText" : "SÁBADO, 17 DE AGOSTO DE 2024",
+    "dateSelectedCalendar" : "17 AGOSTO 2024",
+    "sessionsTotal" : 5,
+    "graphicNumberedZone" : "#\\35 301C864-FE01-15E0-AA11-4F6BE907F07B",
+    "multisessions" : [
+      {
+        "timeSessions" : ["21:00", "21:30", "22:00", "22:30", "23:00"],
+        "dateText" : "Sábado, 17 De Agosto De 2024"
+      }
+    ]
+  },
+  "qa865" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2855",
+    "dateSelectedText" : "JUEVES, 3 DE OCTUBRE DE 2024",
+    "dateSelectedCalendar" : "3 OCTUBRE 2024",
+    "multisessions" : [
+      {
+        "timeSessions" : ["10:00", "10:00", "18:00", "18:00", "18:00"]
+      }
+    ]
+  },
+  "qa868" : {
+    "channelUrl" : "/protractor_channel_multi/es_ES/tickets",
+    "eventInfo" : {
+      "id" : 2857,
+      "title" : "PRT LISBOA",
+      "subtitle" : "Evento - Entrada Regalo",
+      "description" : "Lisboa (pronunciación en portugués: [li???o?]) es la capital1 y mayor ciudad de Portugal. Situada en la desembocadura del río Tajo (Tejo), es la capital del país",
+      "place" : "Teatro Protractor, Barcelona",
+      "price" : "Desde 5,00 €",
+      "callToAction" : "REGALAR"
+    }
+  },
+  "qa877" : {
+    "eventUrl" : "/protractor_channel_multi/es_ES/entradas/evento/2848",
+    "eventSessionTime" : "22:00"
+  },
+  "qa878" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2701"
+  },
+  "qa879" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2705",
+    "dateSelectedText" : "VIERNES, 7 DE JUNIO DE 2024",
+    "dateSelectedCalendar" : "7 JUNIO 2024",
+    "multisessions" : [
+      {
+        "month" : "JUNIO",
+        "day" : "07",
+        "weekDay" : "VIERNES",
+        "timeSessions" : ["21:00", "22:00", "EN BREVE", "22:30", "23:30"],
+        "dateText" : "Viernes, 7 De Junio De 2024"
+      },
+      {
+        "month" : "JUNIO",
+        "day" : "26",
+        "weekDay" : "MIÉRCOLES",
+        "timeSessions" : ["21:00", "22:00", "EN BREVE", "22:30", "23:30"],
+        "dateText" : "Miércoles, 26 De Junio De 2024"
+      },
+      {
+        "month" : "JUNIO",
+        "day" : "27",
+        "weekDay" : "JUEVES",
+        "timeSessions" : ["22:30"],
+        "dateText" : "Jueves, 27 De Junio De 2024"
+      },
+      {
+        "month" : "JUNIO",
+        "day" : "28",
+        "weekDay" : "VIERNES",
+        "timeSessions" : ["22:30"],
+        "dateText" : "Viernes, 28 De Junio De 2024"
+      },
+      {
+        "month" : "JUNIO",
+        "day" : "29",
+        "weekDay" : "SÁBADO",
+        "timeSessions" : ["22:30"],
+        "dateText" : "Sábado, 29 De Junio De 2024"
+      }
+    ]
+  },
+  "qa880" : {
+    "eventUrl" : "/protractor_channel_multi/es_ES/entradas/evento/2701"
+  },
+  "qa881" : {
+    "supraeventUrlChannelMulti" : "/protractor_channel_multi/es_ES/entradas/evento/2709",
+    "supraeventUrlChannelMono" : "/protractor_channel_mono/es_ES/entradas/evento/2709"
+  },
+  "qa883" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2707",
+    "sessionsTotal" : 2
+  },
+  "qa884" : {
+    "eventUrlChannelMulti" : "/protractor_channel_multi/es_ES/entradas/evento/2848",
+    "eventUrlChannelMono" : "/protractor_channel_mono/es_ES/entradas/evento/2848"
+  },
+  "qa3330" : {
+    "giftEventUrlChannelMulti" : "/protractor_channel_multi/es_ES/entradas/evento/2857",
+    "giftEventUrlChannelMono" : "/protractor_channel_mono/es_ES/entradas/evento/2857",
+    "normalEventUrlChannelMulti" : "/protractor_channel_multi/es_ES/entradas/evento/2701"
+  },
+  "qa3806" : {
+    "firstEventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/3085",
+    "firstSessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/3085/session/135963/select",
+    "secondEventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/3175",
+    "thirdEventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2701",
+    "thirdSessionId" : 120524
+  },
+  "qa3808" : {
+    "channelUrl" : "/protractor_channel_unique_session/es_ES/tickets",
+    "sessionUrl" : "/protractor_channel_unique_session/es_ES/entradas/evento/3085/session/135963/select"
+  },
+  "qa3809" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2709",
+    "selectLocationsUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2709/session/120596/select",
+    "sessionId" : 120596
+  },
+  "qa3829" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2856",
+    "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2856/session/121420/select"
+  },
+  "qa3865" : {
+    "portalEventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2701",
+    "portalEventId" : 2701,
+    "portalSessionId" : 180653,
+    "b2bEventId" : 3131,
+    "b2bPreviewSessionId" : 180654,
+    "b2bPreparedSessionId" : 152723,
+    "previewEventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/3217",
+    "scrollSteps" : [2500, 5000, 7500, 10000]
+  }
+}

@@ -1,0 +1,234 @@
+{
+    "qa810" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129254/select",
+        "sessionId" : "129254",
+        "noGraphicZone" : "22407",
+        "seatsSelectedPrices" : ["8,50 €", "8,50 €", "8,50 €"],
+        "seatsSelectedPricesWithoutPromo" : ["10,50 €", "10,50 €", "10,50 €"],
+        "breakdownPrice" : [
+            [
+                "QA810 - Promoción Promoción", "-6,00 €",
+                "Cargos de gestión", "1,50 €",
+                "Precio final", "25,50 €"
+            ],
+            [
+                "QA810 - Promoción Promoción", "-8,00 €",
+                "Cargos de gestión", "2,00 €",
+                "Precio final", "34,00 €"
+            ],
+            [
+                "Cargos de gestión", "0,50 €",
+                "Precio final", "10,50 €"
+            ]
+        ],
+        "basePrice" : ["30,00 €", "40,00 €", "10,00 €"]
+    },
+    "qa811" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129453/select",
+        "sessionId" : "129453",
+        "noGraphicZone" : "22407",
+        "seatsSelectedPrices" : ["5,50 €", "5,50 €", "5,50 €", "5,50 €"],
+        "breakdownPrice" : [
+            "QA811 - Promoción Descuento", "-20,00 €",
+            "Cargos de gestión", "2,00 €",
+            "Precio final", "22,00 €"
+        ],
+        "basePrice" : ["40,00 €"]
+    },
+    "qa812" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129454/select",
+        "sessionId" : "129454",
+        "noGraphicZone" : "22407",
+        "seatsSelectedPricesDesc" : ["8,50 €", "8,50 €", "8,50 €"],
+        "seatsSelectedPricesDescPromo" : ["7,50 €", "7,50 €", "7,50 €"],
+        "priceWithPromo" : [
+            {
+                "breakdown" : [
+                    "QA812 - Promoción Promoción", "-4,00 €",
+                    "Cargos de gestión", "1,00 €",
+                    "Precio final", "17,00 €"
+                ],
+                "basePrice" : ["20,00 €"]
+            },
+            {
+                "breakdown" : [
+                    "QA812 - Promoción Promoción", "-6,00 €",
+                    "Cargos de gestión", "1,50 €",
+                    "Precio final", "25,50 €"
+                ],
+                "basePrice" : ["30,00 €"]
+            }
+        ],
+        "priceWithPromoDesc" : {
+            "breakdown" : [
+                "QA812 - Promoción Promoción", "-6,00 €",
+                "QA812 - Promoción Descuento", "-3,00 €",
+                "Cargos de gestión", "1,50 €",
+                "Precio final", "22,50 €"
+            ],
+            "basePrice" : ["30,00 €"]
+        }
+    },
+    "qa813" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129455/select",
+        "secondSessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129476/select",
+        "sessionId" : "129455",
+        "noGraphicZone" : "22407",
+        "seatSelectedPrice" : "10,50 €",
+        "seatSelectedPricePromo" : "9,50 €",
+        "summarySelection" : [
+            {
+                "breakdown" : [
+                    "QA813 - Promoción Promoción", "-4,00 €",
+                    "Cargos de gestión", "2,50 €",
+                    "Precio final", "48,50 €"
+                ],
+                "basePrice" : ["50,00 €"]
+            },
+            {
+                "breakdown" : [
+                    "QA813 - Promoción Promoción", "-4,00 €",
+                    "Cargos de gestión", "2,00 €",
+                    "Precio final", "38,00 €"
+                ],
+                "basePrice" : ["40,00 €"]
+            },
+            {
+                "breakdown" : [
+                    "Cargos de gestión", "1,00 €",
+                    "Precio final", "21,00 €"
+                ],
+                "basePrice" : ["20,00 €"]
+            }
+        ]
+    },
+    "qa815" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129457/select",
+        "sessionId" : "129457",
+        "noGraphicZone" : "22407",
+        "seatSelectedPrice" : "10,50 €",
+        "seatSelectedPricePromo" : "9,50 €",
+        "breakdown" : [
+            "QA815 - Promoción Promoción", "-4,00 €",
+            "Cargos de gestión", "2,50 €",
+            "Precio final", "48,50 €"
+        ],
+        "basePrice" : ["50,00 €"]
+    },
+    "qa816" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129458/select",
+        "sessionId" : "129458",
+        "noGraphicZone" : "22409",
+        "secondNoGraphicZone" : "22417",
+        "seatSelectedPrice" : "30,50 €",
+        "seatSelectedPricePromo" : "21,50 €",
+        "summarySelection" : [
+            {
+                "breakdown" : [
+                    "QA816 - Promoción Promoción", "-27,00 €",
+                    "Cargos de gestión", "1,50 €",
+                    "Precio final", "64,50 €"
+                ],
+                "basePrice" : ["90,00 €"]
+            },
+            {
+                "breakdown" : [
+                    "QA816 - Promoción Promoción", "-54,00 €",
+                    "Cargos de gestión", "3,50 €",
+                    "Precio final", "159,50 €"
+                ],
+                "basePrice" : ["180,00 €", "30,00 €"]
+            }
+        ]
+    },
+    "qa817" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129507/select",
+        "sessionId" : "129507",
+        "graphicNumberedZone" : "#E6CC6CA1-3F25-16EC-838E-4F6E814D5A23",
+        "noGraphicNumberedZone" : 22447,
+        "seatSelectedPrice" : "10,50 €",
+        "seatSelectedPricePromo" : "7,50 €",
+        "summarySelection" : [
+            {
+                "breakdown" : [
+                    "QA817 - Promoción Promoción", "-9,00 €",
+                    "Cargos de gestión", "1,50 €",
+                    "Precio final", "22,50 €"
+                ]
+            },
+            {
+                "breakdown" : [
+                    "QA817 - Promoción Promoción", "-18,00 €",
+                    "Cargos de gestión", "3,00 €",
+                    "Precio final", "45,00 €"
+                ]
+            },
+            {
+                "breakdown" : [
+                    "QA817 - Promoción Promoción", "-18,00 €",
+                    "Cargos de gestión", "3,50 €",
+                    "Precio final", "55,50 €"
+                ]
+            }
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa818" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129460/select",
+        "sessionId" : "129460",
+        "noGraphicZone" : "22407",
+        "breakdown" : [
+            "QA818 - Promoción Descuento", "-8,00 €",
+            "Cargos de gestión", "2,50 €",
+            "Precio final", "44,50 €"
+        ],
+        "basePrice" : ["50,00 €"]
+    },
+    "qa819" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129461/select",
+        "sessionId" : "129461",
+        "noGraphicZone" : "22407",
+        "summarySelection" : [
+            {
+                "breakdown" : [
+                    "QA819 - Promoción Descuento", "-4,00 €",
+                    "Cargos de gestión", "1,00 €",
+                    "Precio final", "17,00 €"
+                ],
+                "basePrice" : ["20,00 €"]
+            },
+            {
+                "breakdown" : [
+                    "QA819 - Promoción Descuento", "-4,00 €",
+                    "Cargos de gestión", "3,50 €",
+                    "Precio final", "69,50 €"
+                ],
+                "basePrice" : ["70,00 €"]
+            }
+        ]
+    },
+    "qa820" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2935/session/129462/select",
+        "sessionId" : "129462",
+        "noGraphicZone" : "22407",
+        "seatSelectedPrice" : "10,50 €",
+        "seatSelectedPricePromo" : "8,50 €",
+        "summarySelection" : [
+            {
+                "breakdown" : [
+                    "QA820 - Promoción Descuento", "-4,00 €",
+                    "Cargos de gestión", "1,00 €",
+                    "Precio final", "17,00 €"
+                ],
+                "basePrice" : ["20,00 €"]
+            },
+            {
+                "breakdown" : [
+                    "Cargos de gestión", "1,50 €",
+                    "Precio final", "31,50 €"
+                ],
+                "basePrice" : ["30,00 €"]
+            }
+        ]
+    }
+}

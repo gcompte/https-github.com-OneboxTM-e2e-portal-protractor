@@ -1,0 +1,89 @@
+{
+    "generic" : {
+        "eventId" : 2948,
+        "sessionUrlMulti" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2948/session/129599/select",
+        "sessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129599/select",
+        "graphicNumberedZone" : "#\\36 DCCF6AE-1F8E-9991-F5FC-4AD5F0BC574E > g > g > g > g > g > path",
+        "noGraphicZone" : 22562
+    },
+    "qa724" : {
+        "sessionUrlMulti" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2948/session/129598/select",
+        "sessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129598/select",
+        "sessionId" : 129598,
+        "promotionId" : 18950,
+        "seatsToSelect" : 3
+    },
+    "qa725" : {
+        "sessionUrlMulti" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2948/session/129600/select",
+        "sessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129600/select",
+        "sessionId" : 129600,
+        "promotionId" : 18951,
+        "seatsToSelect" : 2
+    },
+    "qa727" : {
+        "sessionUrlMulti" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2948/session/129608/select",
+        "sessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129608/select",
+        "sessionId" : 129608,
+        "promotionId" : 18953,
+        "seatsToSelect" : 3
+    },
+    "qa728" : {
+        "sessionUrlMulti" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2948/session/129609/select",
+        "sessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129609/select",
+        "sessionId" : 129609,
+        "promotionId" : 18954,
+        "seatsToSelect" : 3
+    },
+    "qa730" : {
+        "sessionUrlMulti" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2948/session/129610/select",
+        "sessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129610/select",
+        "sessionId" : 129610,
+        "promotionId" : 18955,
+        "seatsToSelect" : 2
+    },
+    "qa731" : {
+        "sessionUrlMulti" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2948/session/129611/select",
+        "sessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129611/select",
+        "sessionId" : 129611,
+        "promotionId" : 18956,
+        "seatsToSelect" : 2
+    },
+    "qa734" : {
+        "sessionUrlMulti" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2948/session/129613/select",
+        "sessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129613/select",
+        "sessionId" : 129613,
+        "promotionId" : 18957,
+        "seatsToSelect" : 3
+    },
+    "qa735" : {
+        "firstSessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129614/select",
+        "secondSessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129615/select",
+        "firstSessionId" : 129614,
+        "secondSessionId" : 129615,
+        "promotionId" : 18958,
+        "firstSeatsToSelect" : 2,
+        "secondSeatsToSelect" : 3,
+        "seatSelectedPrice" : "11,00 €",
+        "seatSelectedPricePromo" : "9,00 €",
+        "totalPrice" : "29,00",
+        "paymentMethodPosition" : 0
+    },
+    "qa736" : {
+        "sessionUrlMulti" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2948/session/129616/select",
+        "sessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129616/select",
+        "sessionId" : 129616,
+        "promotionAutoId" : 18959,
+        "promotionDescId" : 18960,
+        "promotionPromoId" : 18961,
+        "seatsToSelect" : 1
+    },
+    "qa737" : {
+        "sessionUrlMulti" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2948/session/129617/select",
+        "sessionUrlMono" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2948/session/129617/select",
+        "sessionId" : 129617,
+        "promotionAutoId" : 18962,
+        "promotionDescId" : 18963,
+        "promotionPromoId" : 18964,
+        "seatsToSelect" : 1
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "qa2557" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2933/session/129174/select",
+        "noGraphicZone" : "22385",
+        "breakdownPrice" : [
+            "Promoción Descuento QA2557", "-7,00 €",
+            "Cargos de gestión", "5,00 €",
+            "Precio final", "8,00 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2558" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2931/session/129170/select",
+        "graphicNumberedZone" : "#D4765DB8-D9D7-4314-8C70-320384CAB47D > g:nth-child(1) > rect",
+        "noGraphicNumberedZone" : 22381,
+        "breakdownPrice" : [
+            "Promoción Descuento QA2558", "-7,00 €",
+            "Cargos de gestión", "4,00 €",
+            "Precio final", "7,00 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2559" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2912/session/128938/select",
+        "graphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path",
+        "noGraphicNumberedZone" : 22200,
+        "breakdownPrice" : [
+            "Promoción Descuento QA2559", "-7,00 €",
+            "Cargos de gestión", "2,60 €",
+            "Precio final", "5,60 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2560" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2907/session/128886/select",
+        "graphicNoNumberedZone" : "#\\31 6255 > g > g > g > path",
+        "graphicZoneCoordenates" : [220, 130],
+        "breakdownPrice" : [
+            "Promoción Descuento QA2560", "-7,00 €",
+            "Cargos de gestión", "2,60 €",
+            "Precio final", "5,60 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2561" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2907/session/128887/select",
+        "noGraphicZone" : "22167",
+        "breakdownPrice" : [
+            "Promoción Descuento QA2561", "-0,50 €",
+            "Cargos de gestión", "2,95 €",
+            "Precio final", "12,45 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2562" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2930/session/129168/select",
+        "noGraphicZone" : "22368",
+        "breakdownPrice" : [
+            "Promoción Descuento QA2562", "-0,50 €",
+            "Cargos de gestión", "7,90 €",
+            "Precio final", "17,40 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2563" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2912/session/128939/select",
+        "noGraphicZone" : "22207",
+        "breakdownPrice" : [
+            "Promoción Descuento QA2563", "-0,50 €",
+            "Cargos de gestión", "2,85 €",
+            "Precio final", "12,35 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2564" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2907/session/128888/select",
+        "graphicNoNumberedZone" : "#\\31 6255 > g > g > g > path",
+        "graphicZoneCoordenates" : [220, 130],
+        "breakdownPrice" : [
+            "Promoción Descuento QA2564", "-0,50 €",
+            "Cargos de gestión", "5,00 €",
+            "Precio final", "14,50 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2565" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2907/session/128889/select",
+        "noGraphicZone" : "22167",
+        "breakdownPrice" : [
+            "Promoción Descuento QA2565", "-1,00 €",
+            "Cargos de gestión", "6,00 €",
+            "Precio final", "15,00 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2566" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2911/session/128936/select",
+        "graphicNumberedZone" : "#\\36 DCCF6AE-1F8E-9991-F5FC-4AD5F0BC574E path",
+        "noGraphicNumberedZone" : 22184,
+        "breakdownPrice" : [
+            "Promoción Descuento QA2566", "-1,00 €",
+            "Cargos de gestión", "9,00 €",
+            "Precio final", "18,00 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2567" : {
+        "sessionUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/2907/session/128899/select",
+        "graphicNoNumberedZone" : "#\\31 6255 > g > g > g > path",
+        "graphicZoneCoordenates" : [220, 130],
+        "breakdownPrice" : [
+            "Promoción Descuento QA2567", "-1,00 €",
+            "Cargos de gestión", "8,00 €",
+            "Precio final", "17,00 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    },
+    "qa2568" : {
+        "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/2911/session/128937/select",
+        "noGraphicZone" : "22194",
+        "breakdownPrice" : [
+            "Promoción Descuento QA2568", "-1,00 €",
+            "Cargos de gestión", "6,00 €",
+            "Precio final", "15,00 €"
+        ],
+        "basePrice" : ["10,00 €"]
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "qa116" : {
+    "eventUrl" : "/qa_automation_mono/es_ES/entradas/evento/5736",
+    "eventId" : 5736,
+    "eventTitle" : "EVENT QA AUTOMATION",
+    "sessionId" : 280864,
+    "graphicNumberedZone" : "#D302BD9D-A3DD-DC20-A9A1-61EE8AD3B23D",
+    "seatsToSelect" : 2,
+    "paymentMethodPosition" : 0,
+    "breakdownPrice" : [
+      "Cargos de gestión", "2,00 €",
+      "Precio final", "42,00 €"
+    ]
+  }
+}

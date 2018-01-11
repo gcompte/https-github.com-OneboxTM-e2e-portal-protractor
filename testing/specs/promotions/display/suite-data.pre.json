@@ -1,0 +1,148 @@
+{
+    "qa2585" : {
+        "eventUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/3033",
+        "eventTitle" : "PRT EVENTO PROMOCIONES VISUALIZACIÓN",
+        "firstSessionId" : 132155,
+        "secondSessionId" : 132156,
+        "vipNoGraphicZone" : 23631,
+        "normalNoGraphicZone" : 23534,
+        "dayToSelect" : 5,
+        "priceWithoutAuto" : {
+            "breakdown" : [
+                "Cargos de gestión", "2,00 €"
+            ],
+            "basePrice" : ["20,00 €", "10,00 €"],
+            "finalPrice" : "32,00 €"
+        },
+        "priceWithAuto" : {
+            "breakdown" : [
+                "QA2585 - Promoción Automática", "-15,00 €",
+                "Cargos de gestión", "2,00 €"
+            ],
+            "basePrice" : ["20,00 €", "10,00 €"],
+            "finalPrice" : "17,00 €"
+        }
+    },
+    "qa2584" : {
+        "firstEventUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/3041",
+        "secondEventUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3041",
+        "eventTitle" : "PRT EVENTO PROMOCIONES VISUALIZACIÓN 02",
+        "sessionId" : 132153,
+        "vipNoGraphicZone" : 23630,
+        "normalNoGraphicZone" : 23623,
+        "zonesInfo" : [
+            "Zona Normal | 10,00 €",
+            "Zona VIP | 20,00 € 9,00 € QA2584 - Promoción Automática"
+        ],
+        "channelMono" : {
+            "breakdown" : [
+                "QA2584 - Promoción Automática", "-11,00 €",
+                "Cargos de gestión", "2,00 €"
+            ],
+            "basePrice" : ["20,00 €", "10,00 €"],
+            "finalPrice" : "21,00 €"
+        },
+        "channelMulti" : {
+            "breakdown" : [
+                "Cargos de gestión", "1,00 €"
+            ],
+            "basePrice" : ["20,00 €", "10,00 €"],
+            "finalPrice" : "31,00 €"
+        }
+    },
+    "qa2583" : {
+        "firstEventUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/3042",
+        "secondEventUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/3042",
+        "eventTitle" : "PRT EVENTO PROMOCIONES VISUALIZACIÓN 03",
+        "firstSessionId" : 132158,
+        "secondSessionId" : 132159,
+        "vipNoGraphicZone" : 23639,
+        "normalNoGraphicZone" : 23632,
+        "channelMono" : {
+            "breakdown" : [
+                "QA2583 - Promoción Automática", "-6,00 €",
+                "Cargos de gestión", "2,00 €"
+            ],
+            "basePrice" : ["20,00 €", "10,00 €"],
+            "finalPrice" : "26,00 €"          
+        },
+        "channelMulti" : {
+            "breakdown" : [
+                "QA2583 - Promoción Automática", "-6,00 €",
+                "Cargos de gestión", "1,00 €"
+            ],
+            "basePrice" : ["20,00 €", "10,00 €"],
+            "finalPrice" : "25,00 €"
+        }
+    },
+    "qa2582" : {
+        "eventUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/3033",
+        "eventTitle" : "PRT EVENTO PROMOCIONES VISUALIZACIÓN",
+        "firstSessionId" : 132155,
+        "secondSessionId" : 132156,
+        "thirdSessionId" : 132172,
+        "vipNoGraphicZone" : 23631,
+        "normalNoGraphicZone" : 23534,
+        "firstDayToSelect" : 6,
+        "secondDayToSelect" : 5,
+        "breakdown" : [
+            "QA2582 - Promoción Promoción", "-6,00 €",
+            "Cargos de gestión", "2,00 €"
+        ],
+        "basePrice" : ["20,00 €", "10,00 €"],
+        "finalPrice" : "26,00 €"
+    },
+    "qa2581" : {
+        "eventUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/3041",
+        "eventTitle" : "PRT EVENTO PROMOCIONES VISUALIZACIÓN 02",
+        "firstSessionId" : 132153,
+        "secondSessionId" : 132154,
+        "vipNoGraphicZone" : 23630,
+        "normalNoGraphicZone" : 23623,
+        "dayToSelect" : 2,
+        "promocionPromocionName" : "QA2581 - Promoción Promoción",
+        "breakdown" : [
+            "QA2584 - Promoción Automática", "-11,00 €",
+            "QA2581 - Promoción Promoción", "-4,50 €",
+            "Cargos de gestión", "2,00 €"
+        ],
+        "basePrice" : ["20,00 €", "10,00 €"],
+        "finalPrice" : "16,50 €"
+    },
+    "qa2580" : {
+        "eventUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/3042",
+        "eventTitle" : "PRT EVENTO PROMOCIONES VISUALIZACIÓN 03",
+        "firstSessionId" : 132158,
+        "secondSessionId" : 132159,
+        "vipNoGraphicZone" : 23639,
+        "normalNoGraphicZone" : 23632,
+        "dayToSelect" : 7,
+        "breakdown" : [
+            "QA2583 - Promoción Automática", "-6,00 €",
+            "QA2580 - Promoción Promoción", "-6,50 €",
+            "Cargos de gestión", "2,00 €"
+        ],
+        "basePrice" : ["20,00 €", "10,00 €"],
+        "finalPrice" : "19,50 €"
+    },
+    "qa2579" : {
+        "eventUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/3033",
+        "eventTitle" : "PRT EVENTO PROMOCIONES VISUALIZACIÓN",
+        "firstSessionId" : 132155,
+        "secondSessionId" : 132156,
+        "vipNoGraphicZone" : 23631,
+        "normalNoGraphicZone" : 23534,
+        "dayToSelect" : 5,
+        "breakdown" : [
+            "QA2579 - Promoción Descuento", "-7,00 €",
+            "Cargos de gestión", "2,00 €"
+        ],
+        "basePrice" : ["20,00 €", "10,00 €"],
+        "finalPrice" : ["25,00 €", "17,00 €"]
+    },
+    "qa2666" : {
+        "eventUrl" : "/protractor_channel_promos_mono/es_ES/entradas/evento/3033",
+        "sessionId" : 152654,
+        "seasonContainerPrice" : "Desde 10,00 €"
+    }
+}

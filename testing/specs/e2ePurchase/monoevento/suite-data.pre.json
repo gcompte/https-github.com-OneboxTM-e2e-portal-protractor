@@ -1,0 +1,185 @@
+{
+  "qa116" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2703",
+    "eventId" : 2703,
+    "eventTitle" : "PRT ROMA",
+    "sessionId" : 120530,
+    "graphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F",
+    "noGraphicNumberedZone" : 19197,
+    "seatsToSelect" : 2,
+    "paymentMethodPosition" : 3,
+    "breakdownPrice" : [
+      "PRT Automática - Roma - 10%", "-3,00 €",
+      "Cargos de gestión", "1,60 €",
+      "Precio final", "28,60 €"
+    ]
+  },
+  "qa123" : {
+    "eventId" : 2703,
+    "eventTitle" : "PRT ROMA",
+    "sessionId" : 120531,
+    "noGraphicZone" : 19190,
+    "seatsToSelect" : 3,
+    "breakdownPrice" : [
+      "PRT Automática - Roma - 10%", "-4,50 €",
+      "Cargos de gestión", "3,60 €",
+      "Precio final", "44,10 €"
+    ],
+    "paymentMethodPosition" : 1
+  },
+  "qa186" : {
+    "eventId" : 2703,
+    "eventTitle" : "PRT ROMA",
+    "sessionId" : 120531,
+    "noGraphicZone" : 19190,
+    "amount" : "44,10",
+    "seatsToSelect" : 3,
+    "breakdownPrice" : [
+      "PRT Automática - Roma - 10%", "-4,50 €",
+      "Cargos de gestión", "3,60 €",
+      "Precio final", "44,10 €"
+    ],
+    "paymentMethodPosition" : 0
+  },
+  "qa1192" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/3085/session/135963/select",
+    "eventId" : 3085,
+    "eventTitle" : "PRT BRUGGE",
+    "sessionId" : 135963,
+    "graphicNumberedZone" : "#A9DC9B2F-183E-0569-F10C-4F75B7DAC7E3 > g:nth-child(1) > path",
+    "seatsToSelect" : 2,
+    "paymentMethodPosition" : 3,
+    "breakdownPrice" : [
+      "Cargos de gestión", "2,00 €",
+      "Precio final", "38,00 €"
+    ]
+  },
+  "qa1671" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2703",
+    "sessionId" : 120531,
+    "firstNoGraphicZone" : 19189,
+    "ticketsInfo" : ["1 Platea - No numerada"],
+    "finalPrice" : "9,80 €"
+  },
+  "qa1672" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2703",
+    "sessionId" : 120530,
+    "firstGraphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F",
+    "ticketsInfo" : ["Platea Preferente", "Platea Preferente"],
+    "finalPrice" : "28,60 €"
+  },
+  "qa1673" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2703",
+    "sessionId" : 120530,
+    "firstGraphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F > rect",
+    "secondGraphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path",
+    "graphicNoNumberedZone" : "#\\31 5549 > rect",
+    "ticketsInfo" : ["Platea Preferente", "1 Platea - No numerada"],
+    "finalPrice" : ["14,30 €", "24,10 €"]
+  },
+  "qa1674" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2703/session/120530/select",
+    "sessionId" : 120530,
+    "firstGraphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F > rect",
+    "secondGraphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path",
+    "graphicNoNumberedZone" : "#\\31 5549 > rect",
+    "thirdGraphicNumberedZone" : "#\\31 EE27F5B-4582-E3D4-D4A3-CD171FD96E55 > g:nth-child(1)",
+    "mapTransform" : "left",
+    "automaticPromotion" : "PRT Automática - Roma - 10%",
+    "selectedNumberedSeats" : [
+      {
+          "sectorName" : "Platea",
+          "basePrice" : "10,00 €",
+          "pricePromoAuto" : "9,00 €",
+          "charges" : "0,80 €",
+          "finalPrice" : "9,80 €"
+      },
+      {
+          "sectorName" : "Platea Preferente",
+          "basePrice" : "15,00 €",
+          "pricePromoAuto" : "13,50 €",
+          "charges" : "0,80 €",
+          "finalPrice" : "14,30 €"
+      },
+      {
+          "sectorName" : "Platea Preferente",
+          "basePrice" : "15,00 €",
+          "pricePromoAuto" : "13,50 €",
+          "charges" : "0,80 €",
+          "finalPrice" : "14,30 €"
+      },
+      {
+          "sectorName" : "Anfiteatro 2 F1-2",
+          "basePrice" : "8,00 €",
+          "pricePromoAuto" : "9,00 €",
+          "charges" : "0,80 €",
+          "finalPrice" : "8,00 €"
+      }
+    ],
+    "selectedNoNumberedSeats" : [
+      {
+          "sectorName" : "Platea",
+          "ticketInfo" : ["1 Platea - No numerada"],
+          "basePrice" : "10,00 €",
+          "pricePromoAuto" : "9,00 €",
+          "charges" : "0,80 €",
+          "finalPrice" : "9,80 €"
+      }
+    ],
+    "finalPrice" : "46,40 €"
+  },
+  "qa1675" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2703/session/120531/select",
+    "sessionId" : "120531",
+    "firstNoGraphicZone" : "19192",
+    "totalPriceZones" : 7,
+    "automaticPromotion" : "PRT Automática - Roma - 10%",
+    "ticketsInfo" : ["1 Palcos Laterales - No numerada"],
+    "finalPrice" : "17,00 €"
+  },
+  "qa2994" : {
+    "eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2703",
+    "sessionId" : "120531",
+    "eventTitle" : "PRT ROMA",
+    "noGraphicZone" : "19189",
+    "paymentMethodPosition" : 3,
+    "deliveryMethodPosition" : 1,
+    "finalPrice" : ["9,80 €", "11,00 €", "19,60 €", "22,00 €"],
+    "deliveryMethod" : {
+      "name" : "Recogida en recinto",
+      "cost" : ["1,20 €", "2,40 €"]
+    }
+  },
+  "qa3300" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2701/session/120611/select",
+    "sessionId" : 120611,
+    "noGraphicZone" : 19168,
+    "ticketsInfo" : ["1 Anfiteatro 1 - No numerada"],
+    "finalPrice" : "10,60 €"
+  },
+  "qa3285" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2697/session/120478/select",
+    "sessionId" : 120478,
+    "graphicZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(3) > path",
+    "ticketsInfo" : ["Platea"],
+    "finalPrice" : "10,80 €"
+  },
+  "qa3286" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2703/session/120530/select",
+    "sessionId" : 120530,
+    "graphicZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(2) > path",
+    "graphicNoNumberedZone" : "#\\31 5548 > rect",
+    "mapTransform" : "left",
+    "ticketsInfo" : ["1 Platea - No numerada"],
+    "finalPrice" : "9,80 €"
+  },
+  "qa3863" : {
+    "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2701/session/180653/select",
+    "previewToken" : "2KY5A3RB2KPJ4OLQ",
+    "previewTokenKO" : "2KY5A3RB2KPJ4OLA",
+    "graphicNumberedZone" : "#F2A4F449-7287-8AC2-0561-4F6BCF88BD89 > g > path",
+    "seatsToSelect" : 1,
+    "priceWithoutCurrency" : "10,60",
+    "paymentMethodPosition" : 0
+  }
+}

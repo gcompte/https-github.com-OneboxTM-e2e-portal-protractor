@@ -1,0 +1,49 @@
+{
+  "qa117" : {
+    "firstEventUrl" : "/qa_automation_multi/es_ES/entradas/evento/5736",
+    "firstEventId" : 5736,
+    "firstEventTitle" : "EVENT QA AUTOMATION",
+    "firstSessionId" : 280060,
+    "noGraphicZone" : 35430,
+    "firstSeatsToSelect" : 2,
+    "secondEventUrl" : "/qa_automation_multi/es_ES/entradas/evento/5736",
+    "secondEventId" : 5736,
+    "secondEventTitle" : "EVENT QA AUTOMATION",
+    "secondSessionId" : 280054,
+    "graphicNumberedZone" : "#D302BD9D-A3DD-DC20-A9A1-61EE8AD3B23D > g > path",
+    "secondSeatsToSelect" : 2,
+    "breakdownPrice01" : [
+      "Cargos de gestión", "2,30 €",
+      "Precio final", "20,30 €"
+    ],
+    "breakdownPrice02" : [
+      "Cargos de gestión", "2,30 €",
+      "Precio final", "42,30 €"
+    ],
+    "paymentMethodPosition" : 1
+  },
+  "qa1890" : {
+    "firstEventUrl" : "/qa_automation_multi/es_ES/entradas/evento/5736",
+    "firstEventId" : 5736,
+    "firstEventTitle" : "EVENT QA AUTOMATION",
+    "firstSessionId" : 280060,
+    "firstNoGraphicZone" : 35429,
+    "firstSeatsToSelect" : 1,
+    "secondEventUrl" : "/qa_automation_multi/es_ES/entradas/evento/9043",
+    "secondEventId" : 9043,
+    "secondEventTitle" : "ACTIVITY QA AUTOMATION",
+    "secondSessionId" : 465866,
+    "secondNoGraphicZone" : 51515,
+    "secondSeatsToSelect" : 2,
+    "breakdownPrice01" : [
+      "Cargos de gestión", "1,15 €",
+      "Precio final", "9,15 €"
+    ],
+    "breakdownPrice02" : [
+      "Cargos de gestión", "1,30 €",
+      "Precio final", "51,30 €"
+    ],
+    "paymentMethodPosition" : 0,
+    "finalPrice" : "60,45"
+  }
+}

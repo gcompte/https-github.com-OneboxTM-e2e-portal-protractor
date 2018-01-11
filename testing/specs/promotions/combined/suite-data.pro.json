@@ -1,0 +1,47 @@
+{
+    "qa3811" : {
+        "graphicNoNumberedZone" : "#\\33 3487 > g > g:nth-child(1) > rect",
+        "noGraphicNoNumberedZone" : 1468,
+        "sessionInfo" : [
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/10222/session/571796/select",
+                "sessionId" : 571796,
+                "finalPrice" : ["100,00 €", "50,00 €", "48,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/10222/session/571797/select",
+                "sessionId" : 571797,
+                "finalPrice" : ["60,00 €", "58,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/10222/session/571798/select",
+                "sessionId" : 571798,
+                "finalPrice" : ["100,00 €", "98,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/10222/session/571799/select",
+                "sessionId" : 571799,
+                "finalPrice" : ["100,00 €", "50,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/10222/session/571800/select",
+                "sessionId" : 571800,
+                "finalPrice" : ["60,00 €", "30,00 €", "20,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/10222/session/571801/select",
+                "sessionId" : 571801,
+                "finalPrice" : ["90,00 €", "50,00 €", "45,00 €"]
+            },
+            {
+                "sessionUrl" : "/protractor_channel_promos_multi/es_ES/entradas/evento/10222/session/571802/select",
+                "sessionId" : 571802,
+                "finalPrice" : ["118,80 €", "78,80 €"],
+                "breakdownPrice" : [
+                    "07 - Promoción Automática", "-1,20 €",
+                    "07 - Promoción Descuento", "-40,00 €"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "catalogbalana" : {
+        "channelUrl" : "https://www.grupbalana.com/teatre/cartellera-teatres/"
+    },
+    "burundanga" : {
+        "sessionDate" : "VIERNES, 31 de MARZO",
+        "url" : "https://proticketing.com/entradas.teatrolara/es_ES/entradas/evento/3371/session/413764/select",
+        "sessionId" : 413764,
+        "graphicNumberedZone" : "#\\31 05132",
+        "sectorPriceZoneName" : "Patio de butacas",
+        "totalPrice" : "27,40 €",
+        "finalPrice" : "54,80 €"
+    },
+    "gentebien" : {
+        "sessionDate" : "DOMINGO, 19 de MARZO",
+        "url" : "https://tickets.grupbalana.com/balanatickets_coliseum/es_ES/entradas/evento/5774/session/428660/select",
+        "eventId" : 5774,
+        "sessionId" : 428660,
+        "firstGraphicNumberedZone" : "#\\33 275168A-2C2B-CE24-3934-7B0E1C94FB29 > g > path",
+        "sectorPriceZoneName" : "Platea",
+        "totalPrice" : "40,70 €",
+        "finalPrice" : "81,40 €"
+    },
+    "molinoontheshow" : {
+        "sessionDate" : "DOMINGO, 05 de MARZO",
+        "url" : "https://proticketing.com/portalelmolinobcn/es_ES/entradas/evento/6818/session/417281/select",
+        "eventId" : 6818,
+        "sessionId" : 417281,
+        "noGraphicZone" : "40292",
+        "sectorPriceZoneName" : "El Molino",
+        "totalPrice" : "34,00 €",
+        "finalPrice" : "68,00 €"
+    },
+    "ferrariland" : {
+        "sessionDate" : "DOMINGO, 31 de DICIEMBRE",
+        "url" : "https://tickets.portaventuraworld.com/ferrariland/es_ES/entradas/evento/7172/session/413241/select",
+        "eventId" : 7172,
+        "sessionId" : 413241,
+        "noGraphicZone" : "44486",
+        "sectorPriceZoneName" : "Adulto (11 a 59 años)",
+        "totalPrice" : "60,00 €",
+        "finalPrice" : "120,00 €"
+    },
+    "granpremiovalencia" : {
+        "sessionDate" : "DOMINGO, 12 de NOVIEMBRE",
+        "url" : "https://proticketing.com/circuitvalencia/es_ES/entradas/evento/7345/session/398075/select",
+        "eventId" : 7345,
+        "sessionId" : 398075,
+        "firstGraphicNumberedZone" : "#\\34 D0B3627-4CEA-699A-6B74-C97569C42F8C > path",
+        "secondGraphicNumberedZone" : "#\\30 26B750B-1848-F4C6-A629-CA7B7F9F256D > g:nth-child(1) > g:nth-child(1) > rect",
+        "sectorPriceZoneName" : "Tribuna Naranja S.4",
+        "totalPrice" : "119,20 €",
+        "finalPrice" : "238,40 €"
+    },
+    "circuitf1granpremioespana" : {
+        "sessionDate" : "DOMINGO, 14 de MAYO",
+        "url" : "https://proticketing.com/circuitcat/es_ES/entradas/evento/5462/session/279763/select",
+        "eventId" : 5462,
+        "sessionId" : 279763,
+        "firstGraphicNumberedZone" : "#\\35 0F9EA10-2CEF-279D-828E-D5053B6EB528 > g:nth-child(1) > path",
+        "secondGraphicNumberedZone" : "#\\37 E3B4AAE-C61A-43EE-CDD9-857A691AB651 > rect",
+        "graphicNoNumberedZone" : "#\\32 3117 > g > g:nth-child(2) > g",
+        "sectorPriceZoneName" : ["Tribuna N Zona 30", "Pelouse"],
+        "totalPrice" : ["183,75 €", "92,85 €"],
+        "finalPrice" : "276,60 €"
+    },
+    "campeonatoligamalagacf" : {
+        "sessionDate" : "Fecha y hora pendientes de confirmar",
+        "url" : "https://proticketing.com/malagacf/es_ES/entradas/evento/6867/session/380974/select",
+        "eventId" : 6867,
+        "sessionId" : 380974,
+        "firstGraphicNumberedZone" : "#FEC0E478-031D-5A11-CD9D-E9E884B198BF > g:nth-child(1) > path",
+        "secondGraphicNumberedZone" : "#\\37 871B935-207E-8C61-CFFB-E9DC6C963D2C > g:nth-child(1) > g > path",
+        "sectorPriceZoneName" : "FONDO GRADA ALTA (471) - 471",
+        "totalPrice" : "16,50 €",
+        "finalPrice" : "33,00 €"
+    },
+    "ccxentradamuseu" : {
+        "sessionDate" : "JUEVES, 31 de AGOSTO",
+        "url" : "https://proticketing.com/cosmocaixabarcelona/es_ES/entradas/evento/2067/session/357221/select",
+        "eventId" : 2067,
+        "sessionId" : 357221,
+        "noGraphicZone" : "13514",
+        "sectorPriceZoneName" : "Principal",
+        "totalPrice" : "4,00 €",
+        "finalPrice" : "8,00 €"
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "qa261" : {
+    "url" : "/protractor_channel_multi/es_ES/entradas/evento/2701/session/120524/select",
+    "notAdjacentSeatsMessage" : "Las butacas seleccionadas no son contiguas",
+    "firstGraphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F",
+    "secondGraphicNumberedZone" : "#\\30 2A3A04B-01A5-C53D-7F04-CD14346A17B1 > g:nth-child(2) > path",
+    "mapTransform" : "left"
+  },
+  "qa262" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2701/session/120524/select",
+    "notAdjacentSeatsMessage" : "Las localidades seleccionadas pertenecen a zonas diferentes",
+    "firstGraphicNumberedZone" : "#\\34 EF3DCA3-4CA2-05FD-A33B-CD12446C0A01 > g:nth-child(1) > path",
+    "secondGraphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F",
+    "graphicNoNumberedZone" : "#\\31 5527 > rect"
+  },
+  "qa263" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2701/session/120524/select",
+    "notAdjacentSeatsMessage" : "Las butacas seleccionadas no son contiguas",
+    "graphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F"
+  },
+  "qa264" : {
+    "url" : "/protractor_channel_mono/es_ES/entradas/evento/2701/session/120524/select",
+    "notAdjacentSeatsMessage" : "Las butacas seleccionadas no son contiguas",
+    "firstGraphicNumberedZone" : "#D8C03A9D-4BBA-AFA3-E35B-CD12EF12FD5F",
+    "secondGraphicNumberedZone" : "#\\30 2A3A04B-01A5-C53D-7F04-CD14346A17B1 > g:nth-child(2) > path",
+    "mapTransform" : "left"
+  },
+  "qa265" : {
+    "url" : "/protractor_channel_multi/es_ES/entradas/evento/2701/session/120890/select",
+    "notAdjacentSeatsMessage" : "Las localidades seleccionadas pertenecen a zonas diferentes",
+    "firstNoGraphicZone" : 19169,
+    "secondNoGraphicZone" : 19171
+  }
+}

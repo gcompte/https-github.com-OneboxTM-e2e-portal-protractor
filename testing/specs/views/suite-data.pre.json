@@ -1,0 +1,128 @@
+{
+	"qa856" : {
+		"channelUrl" : "/protractor_channel_mono/es_ES/tickets",
+		"filterWord" : "Londres"
+	},
+	"qa857" : {
+		"channelUrl" : "/protractor_channel_mono/es_ES/tickets",
+		"filterWord" : "supraevento"
+	},
+	"qa3625" : {
+	  	"eventInfo" : [
+	  		{
+			    "id" : 2701,
+				"title" : "PRT LONDRES",
+				"subtitle" : "Evento - List_Cal - Abonos_Sesiones",
+				"imageSrc" : "https://s3.amazonaws.com/onebox-repository/pre/376/470/evento/2701/146115_565839_1459854404503.jpg",
+				"description" : "Londres es la capital de Inglaterra y del Reino Unido, y la mayor ciudad y área urbana de Gran Bretaña y de toda la Unión Europea.",
+				"place" : "Varios recintos, Diferentes ciudades",
+				"date" : "Del 5 al 12 de abril de 2024",
+				"price" : "Desde 5,00 €"
+	  		},
+	  		{
+			    "id" : 2856,
+				"title" : "PRT RÍO DE JANEIRO",
+				"subtitle" : "Evento - List_Cal - PromoAuto_PromoDesc",
+				"imageSrc" : "https://s3.amazonaws.com/onebox-repository/pre/376/470/evento/2856/148003_11638_1470314595170.jpg",
+				"description" : "Río de Janeiro, popularmente llamada Rio, es una ciudad y municipio brasileño.",
+				"place" : "Auditorio Protractor, Madrid",
+				"price" : "Desde 7,00 €"
+	  		},
+	  		{
+			    "id" : 3123,
+				"title" : "PRT SEATTLE",
+				"subtitle" : "Evento Agotado",
+				"imageSrc" : "https://s3.amazonaws.com/onebox-repository/pre/376/470/evento/3123/164017_871841_1496225962843.jpg",
+				"place" : "Circuito Protractor, Pulpí",
+				"date" : "4 de enero de 2025"
+	  		},
+	  		{
+			    "id" : 3102,
+				"title" : "PRT ANKARA",
+				"subtitle" : "Evento Agotado - Sin Fecha",
+				"imageSrc" : "https://s3.amazonaws.com/onebox-repository/pre/376/470/evento/3102/163359_92544_1495177049719.jpg",
+				"description" : "Ankara es la capital de Turquía y de la provincia homónima en la región de Anatolia Central. Tiene una población de 5.270.575 habitantes, lo que la convierte en la segunda ciudad más poblada del país",
+				"place" : "Circuito Protractor, Pulpí"
+	  		},
+	  		{
+			    "id" : 2857,
+				"title" : "PRT LISBOA",
+				"subtitle" : "Evento - Entrada Regalo",
+				"imageSrc" : "https://s3.amazonaws.com/onebox-repository/pre/376/470/evento/2857/148031_742800_1470380131287.jpg",
+				"description" : "Lisboa (pronunciación en portugués: [li???o?]) es la capital1 y mayor ciudad de Portugal. Situada en la desembocadura del río Tajo (Tejo), es la capital del país",
+				"place" : "Teatro Protractor, Barcelona",
+				"price" : "Desde 5,00 €"
+	  		},
+	  		{
+			    "id" : 3103,
+				"title" : "PRT BOGOTÁ",
+				"subtitle" : "Evento Entrada Regalo - Sin Fecha",
+				"imageSrc" : "https://s3.amazonaws.com/onebox-repository/pre/376/470/evento/3103/163369_824760_1495177843262.jpg",
+				"description" : "Bogotá, oficialmente Bogotá, Distrito Capital, abreviado Bogotá, es la capital de la República de Colombia y del departamento de Cundinamarca.",
+				"place" : "Circuito Protractor, Pulpí",
+				"price" : "Desde 10,00 €"
+	  		},
+	  		{
+			    "id" : 2709,
+				"title" : "PRT BUENOS AIRES",
+				"subtitle" : "Supraevento - Abonos_Sesiones",
+				"imageSrc" : "https://s3.amazonaws.com/onebox-repository/pre/376/470/evento/2709/146280_458164_1459873386950.jpg",
+				"description" : "Buenos Aires, denominada legalmente Ciudad de Buenos Aires o Ciudad Autónoma de Buenos Aires",
+				"place" : "Teatro Protractor, Barcelona",
+				"date" : "Del 23 al 27 de febrero de 2024",
+				"price" : "Desde 7,00 €"
+	  		},
+	  		{
+			    "id" : 2697,
+				"title" : "PRT PARÍS",
+				"subtitle" : "Supraevento Sesiones",
+				"imageSrc" : "https://s3.amazonaws.com/onebox-repository/pre/376/470/evento/2697/146027_214029_1459504057903.jpg",
+				"description" : "París es la capital de Francia y de la región de Isla de Francia.",
+				"place" : "Teatro Protractor, Barcelona",
+				"price" : "Desde 7,00 €"
+	  		},
+	  		{
+			    "id" : 2710,
+				"title" : "PRT TOKYO",
+				"subtitle" : "Supraevento - Agotado",
+				"imageSrc" : "https://s3.amazonaws.com/onebox-repository/pre/376/470/evento/2710/146306_358606_1459874247103.jpg",
+				"description" : "Tokio es la capital de facto de Japón, localizada en el centro-este de la isla de Honshu.",
+				"place" : "Teatro Protractor, Barcelona",
+				"date" : "12 de abril de 2024"
+	  		},
+	  		{
+			    "id" : 3104,
+				"title" : "PRT ESTOCOLMO",
+				"subtitle" : "Supraevento Agotado - Sin Fecha",
+				"imageSrc" : "https://s3.amazonaws.com/onebox-repository/pre/376/470/evento/3104/163387_354549_1495179590818.jpg",
+				"description" : "La ciudad de Estocolmo es administrativamente un municipio de la provincia de Estocolmo, con una población de 1.372.565 habitantes (2012).",
+				"place" : "Circuito Protractor, Pulpí"
+	  		}
+	  	],
+	  	"callToActionBuy" : "COMPRAR ENTRADAS",
+	  	"callToActionSeeEvents" : "VER EVENTOS",
+	  	"callToActionGift" : "REGALAR",
+	  	"soldOutText" : "ENTRADAS AGOTADAS",
+	  	"eventUrl" : "es_ES/entradas/evento/",
+	  	"sectionBoxDisabledClass" : "section-box-disabled",
+	  	"scrollSteps" : [2500, 5000, 7500, 10000]
+ 	},
+	"qa3657" : {
+		"channelUrl" : "/protractor_channel_mono/es_ES/tickets",
+		"filterTitle" : "ABONOS",
+		"filterVenue" : "CIRCUITO PROTRACTOR",
+		"filterCity" : "LONDRES",
+		"filterNoResults" : "1234",
+	  	"scrollSteps" : [2500, 5000, 7500, 10000],
+	  	"noEventsText" : "No hay resultados para esta búsqueda"
+	},
+	"qa3658" : {
+		"eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2703"
+	},
+	"qa3663" : {
+		"eventUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2703",
+		"monthYearSelected" : "ABRIL 2024",
+		"monthSelected" : "abril",
+		"daysSessions" : ["12", "13", "19", "20"]
+	}
+}

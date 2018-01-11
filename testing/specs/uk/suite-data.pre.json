@@ -1,0 +1,25 @@
+{
+  "qa3820" : {
+    "sessionUrl" : "/protractor_channel_uk_multi/en_US/entradas/evento/3232/session/180767/select",
+    "graphicNumberedZone" : "#\\37 2E4DFF0-F8AC-A799-93AD-1560E3DA030E",
+    "feesInfo" : {
+      "name" : "Transaction Fee",
+      "price" : "€1.15"
+    },
+    "priceWithoutTransactionFee" : "€51.00",
+    "priceWithTransactionFee" : ["€26.65", "€52.15"],
+    "transactionFeeInfo" : "Applies per transaction: Transaction Fee (€1.15)",
+    "paymentCash" : 100
+  },
+  "qa3849" : {
+    "sessionUrl" : "/protractor_channel_uk_multi_not_fees/en_US/entradas/evento/3232/session/180767/select",
+    "graphicNumberedZone" : "#\\37 2E4DFF0-F8AC-A799-93AD-1560E3DA030E",
+    "feesInfo" : {
+      "name" : "Transaction Fee",
+      "price" : "€1.15"
+    },
+    "priceWithoutTransactionFee" : "€51.00",
+    "transactionFeeInfo" : "Applies per transaction: Transaction Fee (€1.15)",
+    "paymentCash" : 100
+  }
+}

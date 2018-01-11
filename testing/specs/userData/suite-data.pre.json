@@ -1,0 +1,11 @@
+{
+  "qa3031" : {
+    "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2703/session/120531/select",
+    "noGraphicZone" : "19189",
+    "nif" : "01234567890123456789A"
+  },
+  "qa3605" : {
+    "sessionUrl" : "/protractor_channel_mono/es_ES/entradas/evento/2703/session/120531/select",
+    "noGraphicZone" : "19189"
+  }
+}
